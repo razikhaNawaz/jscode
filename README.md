@@ -70,4 +70,16 @@ for(let todo of todos){
     console.log(todo.text);
 }
 
+class student{
+constructor(username,email){
+this.username=username;
+this.email=email;
+}
+student s1=new student(razikha,razikha02@gmail.com)
+s1.username();
+s1.email();
+}
+thank u
+
 final copy
+
