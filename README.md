@@ -70,3 +70,4 @@ for(let todo of todos){
     console.log(todo.text);
 }
 
+final copy
