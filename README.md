@@ -79,3 +79,4 @@ student s1=new student(razikha,razikha02@gmail.com)
 s1.username();
 s1.email();
 }
+thank u
